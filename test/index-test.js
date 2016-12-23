@@ -65,4 +65,5 @@ describe('Map/reduce lab', () => {
       expect($rows.length).toEqual(nonAutomaticIssues.length);
     });
   });
+
 });
